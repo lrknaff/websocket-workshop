@@ -1,0 +1,25 @@
+{
+  "name": "websocket-workshop",
+  "version": "1.0.0",
+  "description": "WebSocket practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrknaff/websocket-workshop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrknaff/websocket-workshop/issues"
+  },
+  "homepage": "https://github.com/lrknaff/websocket-workshop#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "lodash": "^4.17.4",
+    "socket.io": "^1.7.2"
+  }
+}
